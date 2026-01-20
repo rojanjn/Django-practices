@@ -61,4 +61,4 @@ python manage.py runserver
 
 ## Notes
 - Virtual Environments *"(myworld/)"* are ignored via .gitignore
-- *"__pycache__"* folders are ignored
+- *"\__pycache__"* folders are ignored
